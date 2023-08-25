@@ -1,0 +1,3 @@
+class Estacionamento {
+  bool? temPortaoAutomatico;
+}

@@ -1,3 +1,0 @@
-class Estacionamento {
-  bool? temPortaoAutomatico;
-}

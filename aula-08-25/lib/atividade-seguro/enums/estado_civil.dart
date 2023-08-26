@@ -10,7 +10,7 @@ enum EstadoCivil {
   
   const EstadoCivil({required this.percentual});
 
-  calculoEstadoCivil(double valorBase){
-    return valorBase * percentual;
+  calculoEstadoCivil(double valorFipe){
+    return valorFipe - (valorFipe * percentual);
   }
 }

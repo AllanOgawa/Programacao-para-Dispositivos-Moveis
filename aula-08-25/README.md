@@ -1,3 +1,0 @@
-# AULA DIA: 25/08/2023
-
-ASSUNTO: --

@@ -1,0 +1,5 @@
+.dart_tool/
+CHANGELOG.md
+pubspec.lock
+pubspec.yaml
+analysis_options.yaml
